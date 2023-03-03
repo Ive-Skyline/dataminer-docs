@@ -153,7 +153,7 @@ The Visual Studio IDE will then assist you in correctly implementing your execut
 
 ![alt text](../../images/InterApp_VS1.png "Executor implementation in Visual Studio")
 
-The executor has several methods that will by default be called when a message is executed (in the specified order):
+The executor has several methods that will be called by default when a message is executed (in the specified order):
 
 1. DataGets (always)
 1. Parse (always)
